@@ -1,0 +1,88 @@
+div.acerca-imagen img{ 
+    border: 5px solid black;
+}
+#hola1{width: 350px;
+    height: 250px;
+    border-radius: 30px;border-style: double;}
+
+#hola2{
+    height: 500px;
+    width: 100%;
+    border:10px solid brown;
+    border-style: double;
+}
+
+h4{font-family: algerian;}
+
+#yo{font-family: impact;font-size: 30px;margin: 1px;}
+
+h6{
+    color: rgb(152, 20, 200);
+    margin: 1px;/*margen para el encabezado h6*/
+    cursor:pointer;
+}
+h4{
+    margin: 2px;
+}
+ol{
+    margin: 1px;
+}
+.parrafo1,.parrafo2{
+    margin: 1px;
+}
+header{
+    color: green;
+    font-style:italic;
+}
+
+table, th, td {
+    padding: 5px;
+    border: 1px solid rgb(142, 20, 20);
+}
+
+
+h6{
+    text-decoration: none;
+}
+
+
+.seccion-1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    background-color: lightgreen;
+    border: 10px solid lime;
+    border-style: double;
+}
+.acerca-imagen{
+    margin: 0 30px;
+}
+.seccion-2{
+    display: flex;
+    justify-content: center;
+}
+header a i{
+    font-size: 60px;
+    color: lightslategray;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+header{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 20px;
+    height: 90px;   
+    border-style: groove;
+}
+#lista-desordenada{
+    display: flex;
+    justify-content: space-between;
+    width: 1000px;
+    cursor: pointer;
+    
+    padding: 20px;
+}
